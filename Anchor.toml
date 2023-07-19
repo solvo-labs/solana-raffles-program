@@ -1,0 +1,12 @@
+[features]
+seeds = false
+skip-lint = false
+[programs.devnet]
+lottery = "b65W8DNjKxK7dEMfiqUJiC7YAbE4n52xfFWcA5XfyfX"
+
+[registry]
+url = "https://api.apr.dev"
+
+[provider]
+cluster = "devnet"
+wallet = "./.json"
