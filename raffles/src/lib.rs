@@ -8,7 +8,7 @@ use anchor_lang::{
 
 use crate::{constants::*, error::LotteryError};
 
-declare_id!("6ANiwC3FdEnXz9UgTX9haDmVuSxE4GxfRQ6DEke29exR");
+declare_id!("FiafUCcKJrc69chmjw1zjeyAS1aDvmRxaCARxoZBJKPZ");
 
 #[program]
 mod lottery {
